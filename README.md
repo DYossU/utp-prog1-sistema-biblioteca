@@ -18,7 +18,7 @@ Practicar la organización modular del código, el manejo de entidades del domin
 2. Ejecuta la clase principal correspondiente (`SistemaBiblioteca`).
 
 ## Repositorio con los datos
-https://github.com/DYossU/utp-prog1-sistema-biblioteca
+[](https://github.com/DYossU/utp-prog1-sistema-biblioteca)
 - **Portafolio / GitHub Pages:** [dyossu.github.io/DYossU](https://dyossu.github.io/DYossU/)
   
 ## Licencia
