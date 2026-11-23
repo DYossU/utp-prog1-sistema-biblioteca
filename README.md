@@ -17,5 +17,9 @@ Practicar la organización modular del código, el manejo de entidades del domin
 1. Importa el proyecto Maven en tu entorno de desarrollo (Apache NetBeans, VS Code o IntelliJ IDEA).
 2. Ejecuta la clase principal correspondiente (`SistemaBiblioteca`).
 
+## Repositorio con los datos
+https://github.com/DYossU/utp-prog1-sistema-biblioteca
+- **Portafolio / GitHub Pages:** [dyossu.github.io/DYossU](https://dyossu.github.io/DYossU/)
+  
 ## Licencia
 Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
